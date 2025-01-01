@@ -1,0 +1,11 @@
+[1mdiff --git a/chapter3.txt b/chapter3.txt[m
+[1mindex 6a2fc64..7766255 100644[m
+[1m--- a/chapter3.txt[m
+[1m+++ b/chapter3.txt[m
+[36m@@ -1 +1,3 @@[m
+[31m-kjknzdk kmlsja laf snlnfs kcnaslnls csknl[m
+\ No newline at end of file[m
+[32m+[m[32mkjknzdk kmlsja laf snlnfs kcnaslnls csknl[m
+[32m+[m[32mnkkas knojsjf kjkhksd[m
+[32m+[m[32mkjbkhifds hoihsa lojoask[m[41m [m
+\ No newline at end of file[m
